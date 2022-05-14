@@ -1,5 +1,5 @@
 body {
-    background-color: #2A2420;
+    background-color: #085A8C;
 }
 h1 {
     text-align: center;
@@ -12,7 +12,7 @@ h4 {
 header {
     padding: 20px 0 0 0;
     text-align: center;
-    background-color: #543311;
+    background-color: #d9e0e4;
 }
 .navct {
     color: white;
@@ -73,7 +73,7 @@ ul {
     color: white;
     top: 100%;
     z-index: 1;
-    background-color: #2A2420;
+    background-color: #084F8C;
     padding: 20px;
     min-height: 400px;
     min-width: 300px;
@@ -120,7 +120,7 @@ ul {
 
 .barra {
     padding: 20px 0;
-    background: #543311;
+    background: #084F8C;
 }
 
 .barra p {
@@ -162,7 +162,7 @@ ul {
 .card {
     text-align: center;
     box-shadow: 0 25px 98px 0 rgb(0 0 0 / 3%);
-    background: #362D27;
+    background: #84A4BF;
 }
 @media (min-width: 550px) {
     .card {
